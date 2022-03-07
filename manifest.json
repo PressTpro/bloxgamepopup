@@ -10,3 +10,7 @@
     "128": "https://img.itch.zone/aW1nLzgwOTIxMDMucG5n/32x32%23/L0t2W0.png"
   }
 }
+"browser_action": {
+  "default_popup": "popup.html",
+  "browser_style": true
+}
