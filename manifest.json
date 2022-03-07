@@ -1,0 +1,12 @@
+{
+  "name": "bloxgame-mini",
+  "version": "0.0.1",
+  "description": "Play BloxGame while Doing Other Things",
+  "manifest_version": 2.1,
+  "icons": {
+    "16": "https://img.itch.zone/aW1nLzgwOTIxMDMucG5n/32x32%23/L0t2W0.png",
+    "32": "https://img.itch.zone/aW1nLzgwOTIxMDMucG5n/32x32%23/L0t2W0.png",
+    "48": "https://img.itch.zone/aW1nLzgwOTIxMDMucG5n/32x32%23/L0t2W0.png",
+    "128": "https://img.itch.zone/aW1nLzgwOTIxMDMucG5n/32x32%23/L0t2W0.png"
+  }
+}
